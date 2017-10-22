@@ -1,3 +1,12 @@
+## Project Info
+
+This project is the first of two final tasks in order to complete the CodeCademy JS-React course.
+The Jammming web application connects to Spotify Web APIs and lets the user easily create personalized playlists.
+The code is vanilla JS and follows the ES6 standard.
+There is also a hosted page at http://vinceflorencejammm.surge.sh/ where the project should be visible, but is for some reason offline right now. The code is 100% working and has been successfully built and tested remotely within a Debian VM.
+
+## Create React App Docs
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
